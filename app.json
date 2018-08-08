@@ -1,0 +1,35 @@
+{
+  "pages": [
+   
+    "pages/myFruits/myFruits",
+    
+    "pages/myCart/myCart"
+    
+  ],
+  "window": {
+    "navigationBarTitleText": "河马先生",
+    "navigationBarBackgroundColor": "#11bcff",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/myFruits/myFruits",
+        "iconPath": "assets/icons/class.png",
+        "selectedIconPath": "assets/icons/class-active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/myCart/myCart",
+        "iconPath": "assets/icons/cart.png",
+        "selectedIconPath": "assets/icons/cart-active.png",
+        "text": "购物车"
+      }
+    ]
+  },
+  "debug": false
+}
