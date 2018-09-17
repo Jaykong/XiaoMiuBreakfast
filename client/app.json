@@ -1,16 +1,8 @@
 {
   "pages": [
-   
     "pages/myFruits/myFruits",
-    
     "pages/myCart/myCart"
-    
   ],
-  "window": {
-    "navigationBarTitleText": "河马先生",
-    "navigationBarBackgroundColor": "#11bcff",
-    "navigationBarTextStyle": "black"
-  },
   "tabBar": {
     "color": "#dddddd",
     "selectedColor": "#3cc51f",
@@ -30,6 +22,5 @@
         "text": "购物车"
       }
     ]
-  },
-  "debug": false
+  }
 }
